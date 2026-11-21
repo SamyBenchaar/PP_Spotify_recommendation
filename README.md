@@ -215,6 +215,9 @@ project_root/
 ## 🚦 How to Run the Project
 
 ### 1. Spotify API Configuration
+
+> **Note:** This project was first developed in a private repository. The Spotify credentials visible in earlier commits have been revoked and no longer work; use your own credentials as described below.
+
 - Create an application on **Spotify for Developers**
 - Retrieve your `CLIENT_ID` and `CLIENT_SECRET`, then export them as environment variables before launching Jupyter:
 
